@@ -1,2 +1,4 @@
 /venv/
 /auth.py
+.idea/
+__pycache__/
