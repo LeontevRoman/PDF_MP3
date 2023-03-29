@@ -1,2 +1,11 @@
 # PDF_MP3
-telegram bot/converted .pdf to .mp3/
+Telegram bot converted .pdf to .mp3
+
+Бывают случаи когда прислали файл формата .pdf, а прочитать возможности нет. 
+Простой телеграм бот переведет все это дело в формат .mp3 который можно прослушать.
+
+stack:
+- python 3.10.8
+- aiogram 2.22.1
+- pdfplumber 0.7.4
+- gTTS 2.2.4
